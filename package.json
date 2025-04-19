@@ -1,0 +1,33 @@
+{
+  "name": "github_io_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lustofone/cars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lustofone/cars/issues"
+  },
+  "homepage": "https://github.com/lustofone/cars#readme",
+  "devDependencies": {
+    "@angular/build": "^19.2.8",
+    "@angular/cli": "^19.2.8",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@angular/common": "^19.2.7",
+    "@angular/core": "^19.2.7",
+    "@angular/forms": "^19.2.7"
+  }
+}
